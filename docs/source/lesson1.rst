@@ -130,7 +130,7 @@ F. How to Study the Bible
 
 
 Twelve Application Questions about the text: 2 Tim 3:16-17
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+==========================================================
     1. Is there an attitude to adjust?
     2. Is there a promise to claim?
     3. Is there a priority to change?
