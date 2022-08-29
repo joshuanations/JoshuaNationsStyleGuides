@@ -1,3 +1,5 @@
 # Project to help me get the year 1 curriculum up and running
 
 *.md
+docs/build/
+build/

@@ -1,8 +1,9 @@
+========================
 Lesson 1: Bible Doctrine
-------------------------
+========================
 
 I. WHAT IS DOCTRINE?
-++++++++++++++++++++
+====================
 
 A. Literally means “teaching” or “instruction.”
 
@@ -13,7 +14,7 @@ C. Difference between “doctrine” and “dogma.”
     2. Dogma is saying certain beliefs in a certain way. (e.g., The Apostle's Creed).
 
 II. WHY IS THE STUDY OF DOCTRINE IMPORTANT?
-+++++++++++++++++++++++++++++++++++++++++++
+===========================================
 
 A. Essential for the development of character. What one understands and believes influences the way one lives.
 
@@ -24,7 +25,7 @@ C. Necessary to gain a comprehensive view of Biblical truths, which are scattere
 D. Paul mentions doctrine 10 times in 1 & 2 Tim & Titus. Very Important!!
 
 III. THE BIBLE AS THE FOUNDATION FOR BIBLE DOCTRINE
-+++++++++++++++++++++++++++++++++++++++++++++++++++
+===================================================
 
 A. All scripture is given by the inspiration of God (2 Tim. 3:16, 2 Peter 1:21).
     1. “God-breathed” - Greek word “Theopneustos.”
@@ -63,17 +64,17 @@ C. What was the Apostles' view of scripture?
 D. Uniqueness of the Bible.
 
     1. Written over a period of 1600 years and 40 generations.
-    
+
     2. Written by over 40 authors from every walk of life (kings, peasants, fishermen, philosophers, poets, statesmen, scholars, etc.).
 
     3. Written on three continents: Africa, Asia, and Europe. Written in three languages: Hebrew, Aramaic and Greek.
-    
+
     4. Contains hundreds of controversial subjects, written with harmony and continuity.
-    
+
     5. Carries a unity of theme and purpose that can be explained only by one overseeing mind, the Holy Spirit.
 
     6. It is timeless. One of the most ancient of books, and yet the most modern.
-    
+
     7. Proves to be inspired. It works!
 
 E. How to Approach the Bible?
@@ -129,6 +130,7 @@ F. How to Study the Bible
 
 
 Twelve Application Questions about the text: 2 Tim 3:16-17
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
     1. Is there an attitude to adjust?
     2. Is there a promise to claim?
     3. Is there a priority to change?

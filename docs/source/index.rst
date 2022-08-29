@@ -17,6 +17,7 @@ Unit 1: DOCTRINE(Part1)
 
    lesson1
    lesson2
+   lesson3
 
 
 Unit 2: DOCTRINE(Part1)
