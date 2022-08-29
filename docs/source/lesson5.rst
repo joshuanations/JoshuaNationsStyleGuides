@@ -56,7 +56,7 @@ B. The Holy Spirit in the New Testament
 
 		+++ It would be at least 25 years before His teachings and sayings would be written so they would need to rely on the Holy Spirit.
 
-	e.) In relation to the profitable truths of the Holy Spirit (Jn. 16:13-15):
+	e. In relation to the profitable truths of the Holy Spirit (Jn. 16:13-15):
 		1) He is the Spirit of truth
 		2) He will guide you into all truth
 		3) He shall not speak of Himself
@@ -66,7 +66,7 @@ B. The Holy Spirit in the New Testament
 		7) He will bring all things to your remembrance
 		8) He will receive of mine and shall show it unto you
 		9) All things that the Father has are mine
-	f.) The Holy Spirit in Unbelievers and the world (Jn. 16:8-11):
+	f. The Holy Spirit in Unbelievers and the world (Jn. 16:8-11):
 		1) He reproves the world of sin
 		2) He reproves the world of righteousness
 		3) He reproves the world of Judgment
