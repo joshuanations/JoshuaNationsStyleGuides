@@ -11,7 +11,7 @@ Colors
 
 Color Palette
 
-.. image:: img/joshuanations-website-color-palette.png
+.. image:: img/joshuanations-website-palette.jpeg
     :width: 400
     
 
