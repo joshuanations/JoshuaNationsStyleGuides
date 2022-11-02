@@ -1,5 +1,7 @@
-# Project to help me get the year 1 curriculum up and running
+# Project to help me get style guides curriculum up and running
 
 *.md
 docs/build/
 build/
+.vscode/
+venv/
