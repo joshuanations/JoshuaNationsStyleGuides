@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Joshua Nations Year 1 Curriculum'
-copyright = '2022, Dr. Russ Frase'
-author = 'Dr. Russ Frase'
-release = '1.2.0.0'
+project = 'Joshua Nations Website Style Guide'
+copyright = '2022, Joshua Nations'
+author = 'Jonathan Livesay'
+release = '1.0.0.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
