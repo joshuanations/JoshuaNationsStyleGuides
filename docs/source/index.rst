@@ -1,65 +1,45 @@
-.. Joshua Nations Year 1 Curriculum documentation master file, created by
+.. Joshua Nations Style Guide documentation master file, created by
    sphinx-quickstart on Fri Aug 19 21:16:31 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-================================================
-Welcome to the Joshua Nations Year 1 Curriculum!
-================================================
+==================================================
+Welcome to the Joshua Nations Website Style Guides
+==================================================
 
 Contents
 ========
 
-Unit 1: DOCTRINE(Part 1)
-------------------------
+Joshua Nations Website Style Guides
+-----------------------------------
 
 .. toctree:: 
 
-   lesson1
-   lesson2
-   lesson3
-   lesson4
-   lesson5
+   joshuanations
 
 
-Unit 2: DOCTRINE(Part 2)
-------------------------
+jnbtc.org Website Style Guides
+------------------------------
 
 .. toctree:: 
 
-   lesson6
-   lesson7
-   lesson8
-   lesson9
-   lesson10
+   jnbtc
 
 
-Unit 3: BIBLE SURVEY
---------------------
+nowhis.com Website Style Guides
+-------------------------------
 
 .. toctree:: 
    
-   lesson11
-   lesson12
+   nowhis
 
 
-Unit 4: SPIRITUAL GROWTH
-------------------------
-
-.. toctree:: 
-   
-   lesson13
-   lesson14
-
-
-Unit 5: MINISTRY
-----------------
+jnteam.org Website Style Guides
+-------------------------------
 
 .. toctree:: 
    
-   lesson15
-   lesson16
-   lesson17
+   jnteam
 
    
 .. toctree::
